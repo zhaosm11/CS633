@@ -1,2 +1,2 @@
 # CS673
-For CS673 Project
+For CS673 Lab1
