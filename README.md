@@ -1,2 +1,2 @@
-# CS673
-For CS673 Lab1 add something
+# CS633
+For CS633 assignment
